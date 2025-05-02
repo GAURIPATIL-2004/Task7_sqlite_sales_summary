@@ -35,7 +35,8 @@ This project demonstrates how to use **SQLite**, **SQL**, **Pandas**, and **Matp
 
 task7/
 ├── task7.py          # Main Python script (runs everything)
-├── figure.png   # Auto-generated bar chart
+├── sales_data.db # Auto-generated SQLite database
+├── sales_chart.png   # Auto-generated bar chart
 └── README.md         # Project overview and instructions
 
 ````
