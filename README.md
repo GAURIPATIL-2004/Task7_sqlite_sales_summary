@@ -116,11 +116,6 @@ If you have any suggestions or issues, feel free to:
 * 🐛 [Open an issue](https://github.com/GAURIPATIL-2004/Task7_sqlite-sales_summary/issues)
 * 🍴 Fork this repo and submit a pull request
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE) – feel free to use and modify.
 
 ---
 
