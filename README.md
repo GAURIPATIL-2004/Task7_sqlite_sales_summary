@@ -30,8 +30,8 @@ A beginner-friendly project to demonstrate how to connect Python with an SQLite 
 
 Task7\_sqlite-sales\_summary/
 ├── task7.py            # Main Python script (creates DB, runs SQL, plots chart)
-├── sales\_data.db       # Auto-generated SQLite database
-├── sales\_chart.png     # Auto-generated bar chart image
+├── sales_data.db       # Auto-generated SQLite database
+├── sales_chart.png     # Auto-generated bar chart image
 └── README.md           # Project overview and usage guide
 
 ```
@@ -135,15 +135,3 @@ Thanks to basic Python and data analysis resources that inspired this project.
 * GitHub: [@GAURIPATIL-2004](https://github.com/GAURIPATIL-2004)
 
 ---
-
-```
-
----
-
-### ✅ You’re Done!
-
-Copy and paste the content above into your `README.md`.  
-It will look **clean, professional, and GitHub-ready**.
-
-Would you like me to generate a `.gitignore` or `LICENSE` file to go with it?
-```
