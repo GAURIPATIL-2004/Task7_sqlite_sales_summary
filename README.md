@@ -60,7 +60,7 @@ task7/
 3. Run the script:
 
    ```bash
-   python task7.py
+   python Task7.py
    ```
 
 ## 🧠 Key Concepts
@@ -80,7 +80,7 @@ Sales Summary:
 2  Orange         25     10.0
 ```
 
-![Sales Chart](figure.png)
+![Sales Chart](sales_chart.png)
 
 ---
 
